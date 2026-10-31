@@ -13,9 +13,8 @@ I specialize in building secure, high-throughput microservices, fintech payment 
 ---
 
 ### 📊 GitHub Stats
-![Belay's GitHub stats](https://github-readme-stats.vercel.app/api?username=be147&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=be147&layout=compact&theme=dark)
-
+![Stats](./profile-summary-card-output/dark/0-profile-details.svg)
+![Top Languages](./profile-summary-card-output/dark/1-repos-per-language.svg)
 ---
 
 ### 📫 Connect with Me
