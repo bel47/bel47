@@ -20,4 +20,4 @@ I specialize in building secure, high-throughput microservices, fintech payment 
 ### 📫 Connect with Me
 - 📧 Email: [belayretta47@gmail.com](mailto:belayretta47@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/belay-retta-b51532238](https://www.linkedin.com/in/belay-retta-b51532238/)
-- 📱 Phone: +251-911-47-62-24
+- 📱 Phone: +251-991-43-02-91
